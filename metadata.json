@@ -1,0 +1,6 @@
+{
+  "name": "Jerusalem Ministry Partnership & Giving",
+  "description": "Mfumo rasmi wa kusimamia ahadi, michango, na ushirika wa injili wa Jerusalem Ministry of Gospel kwa Kiswahili.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
